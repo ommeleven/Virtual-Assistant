@@ -7,4 +7,4 @@ class MyFrame(wx.Frame):
             style = wx.MINIMIZE_BOX | wx.SYSTEM_MENU | wx.CAPTION |
             wx.CLOSE_BOX | wx.CLIP_CHILDREN,
             title = "PyDa")
-        
+print("Virtual Assistant")
