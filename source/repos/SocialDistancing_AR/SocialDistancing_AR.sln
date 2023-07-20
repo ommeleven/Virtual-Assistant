@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocialDistancing_AR", "SocialDistancing_AR\SocialDistancing_AR.vcxitems", "{086EDE04-D022-4F68-8708-CE0767F8C0EE}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3CA3D2-3E6E-499A-8AF9-430F757F9D60}
+	EndGlobalSection
+EndGlobal
